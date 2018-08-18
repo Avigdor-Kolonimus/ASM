@@ -1,0 +1,4 @@
+1) mov si,offset A+4 (адрес A[2])
+2) mov si,A+4   (значение в А[2])
+3) mov AX, A+7
+	AX=0300	
